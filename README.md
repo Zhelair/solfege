@@ -74,6 +74,8 @@ Later versions can add:
 - [`docs/MVP.md`](./docs/MVP.md)
 - [`docs/ROADMAP.md`](./docs/ROADMAP.md)
 - [`docs/OPEN_QUESTIONS.md`](./docs/OPEN_QUESTIONS.md)
+- [`docs/GUIDE_SYSTEM.md`](./docs/GUIDE_SYSTEM.md)
+- [`docs/BUILD_BATCHES.md`](./docs/BUILD_BATCHES.md)
 - [`docs/ARCHITECTURE.md`](./docs/ARCHITECTURE.md)
 - [`docs/SECURITY.md`](./docs/SECURITY.md)
 - [`docs/LEGAL_NOTES.md`](./docs/LEGAL_NOTES.md)
